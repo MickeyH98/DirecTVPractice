@@ -1,0 +1,30 @@
+.card {
+    margin: 0 0 40px 0;
+
+    &__title {
+        font-size: 18px;
+        line-height: 32px;
+        color: #009FDB;
+        text-transform: uppercase;
+        font-weight: normal;
+        margin: 0 0 10px 0;
+    }
+
+    &__subtitle {
+        font-size: 26px;
+        line-height: 32px;
+        margin: 0 0 14px 0;
+    }
+
+    &__text {
+        font-size: 11px;
+        line-height: 12px;
+        color: #595959;
+        margin: 0;
+    }
+
+    &__icon {
+        margin-bottom: 34px;
+    }
+
+}
